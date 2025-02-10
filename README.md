@@ -26,7 +26,7 @@ engage with experienced professionals, refine skills, and contribute to impactfu
 
 # Other Portfolios/Platforms
 
-<div class="gap-3" align="center">
+<div class="gap-5" align="center">
     <a href="https://www.linkedin.com/in/guiller-santos-b762ab314/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
