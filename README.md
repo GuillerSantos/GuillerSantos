@@ -19,7 +19,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>    
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" height="50"/>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/50/000000/api.png" alt="REST API" width="50" height="50"/>
     <img src="https://img.icons8.com/color/50/000000/json.png" alt="JSON" width="50" height="50"/>
 </p>
 
