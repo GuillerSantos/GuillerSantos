@@ -9,7 +9,7 @@ Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**,
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="50" height="50"/>
-    <img src="https://mudblazor.com/_content/MudBlazor/MudBlazor.png" alt="MudBlazor" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/MudBlazor/MudBlazor/dev/src/MudBlazor.Website/wwwroot/icons/mudblazor.png" alt="MudBlazor" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
