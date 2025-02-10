@@ -1,15 +1,9 @@
 # README.md
 
-
 Actively expanding a professional portfolio on GitHub, LinkedIn, and Upwork, specializing in C#, 
 ASP.NET Core, Microsoft SQL Server, Blazor, and software development principles such as OOP and SOLID.  
 
-Passionate about continuous learning and thriving in collaborative environments to 
-engage with experienced professionals, refine skills, and contribute to impactful projects.
-
-
 # Technologies and Tools:
-
 
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
@@ -22,7 +16,6 @@ engage with experienced professionals, refine skills, and contribute to impactfu
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" height="50"/>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
-
 
 # Other Portfolios/Platforms
 
