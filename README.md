@@ -11,6 +11,7 @@ Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**,
 <div align="center">
 
 ## **Technologies and Tools**  
+
 </div>
 
 <p align="center">
@@ -23,8 +24,10 @@ Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" 
+        height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" 
+        height="50"/>
 </p>
 
 ---
@@ -32,6 +35,7 @@ Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**,
 <div align="center">
 
 ## **Other Portfolios/Platforms**  
+
 </div>
 
 <p align="center">
