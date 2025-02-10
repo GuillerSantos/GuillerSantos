@@ -4,7 +4,7 @@ Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**,
 
 ---
 
-## ⚒️ **Technologies and Tools**
+## **Technologies and Tools**
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -21,7 +21,7 @@ Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**,
 
 ---
 
-## 🌐 **Other Portfolios/Platforms**
+## **Other Portfolios/Platforms**
 <p align="center">
     <a href="https://www.linkedin.com/in/guiller-santos-b762ab314/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
