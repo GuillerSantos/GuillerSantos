@@ -1,8 +1,6 @@
 # Guiller Santos  
 
-🚀 Actively expanding my professional portfolio on **GitHub, LinkedIn, and Upwork**  
-💻 Specializing in **C#, ASP.NET Core, Microsoft SQL Server, Blazor**  
-📌 Passionate about **OOP, SOLID principles, and software development**  
+Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**, specializing in **C#, ASP.NET Core, Microsoft SQL Server, Blazor**, and software development principles such as **OOP and SOLID**.
 
 ---
 
