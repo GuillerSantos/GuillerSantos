@@ -17,7 +17,7 @@ ASP.NET Core, Microsoft SQL Server, Blazor, and software development principles 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-# Other Portfolios/Platforms
+# Other Portfolios/Platforms:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/guiller-santos-b762ab314/">
