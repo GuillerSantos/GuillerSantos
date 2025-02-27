@@ -43,7 +43,4 @@ Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**,
     <a href="https://www.upwork.com/freelancers/~0163ff2c97538eded6">
         <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
     </a>
-    <a href="https://www.tiktok.com/@ging_dev111?lang=en">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-    </a>
 </p>
