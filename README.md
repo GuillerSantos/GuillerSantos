@@ -27,20 +27,3 @@ Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" 
         height="50"/>
 </p>
-
----
-
-<div align="center">
-
-## **Other Portfolios/Platforms**  
-
-</div>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/guiller-santos-b762ab314/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.upwork.com/freelancers/~0163ff2c97538eded6">
-        <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-    </a>
-</p>
