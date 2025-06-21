@@ -30,4 +30,4 @@ If this sounds interesting, **Console.WriteLine("Follow me!!!");**
 </p>
 
 
-![snake gif](https://github.com/GuillerSantos/GuillerSantos/blob/output/github-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/github-snake-dark.svg?palette=github-dark)
