@@ -2,7 +2,7 @@
 
 # **Guiller Santos**  
 
-I'm a .NET Software Developer and Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**, specializing in **C#, ASP.NET Core, Microsoft SQL Server, Blazor**, and software development principles such as **OOP and SOLID**.
+I'm a **.NET Software Developer** with hands-on experience delivering **real-world solutions** using **C#**, **ASP.NET Core**, **Blazor**, and **Microsoft SQL Server**. I apply proven software engineering practices including **Clean Architecture**, **CQRS**, the **Mediator pattern**, **OOP**, and **SOLID principles** to build **scalable** and **maintainable applications**. I consistently deliver **high-quality work**, which I showcase across **GitHub**, **LinkedIn**, and **Upwork**, as part of my commitment to **excellence** in the **.NET ecosystem**.
 
 </div>
 
@@ -24,6 +24,5 @@ I'm a .NET Software Developer and Actively expanding a professional portfolio on
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
-
 
 ---
