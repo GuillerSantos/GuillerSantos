@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 # **Guiller Santos**  
 
@@ -6,7 +6,7 @@ I'm a .NET Software Developer and Actively expanding a professional portfolio on
 
 </div>
 
-<div>
+<div align="center">
 
 ## **Technologies and Tools**  
 
