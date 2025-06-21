@@ -28,6 +28,3 @@ If this sounds interesting, **Console.WriteLine("Follow me!!!");**
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
-
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/github-snake-dark.svg?palette=github-dark)
