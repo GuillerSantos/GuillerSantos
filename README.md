@@ -31,6 +31,6 @@ If this sounds interesting, **Console.WriteLine("Follow me!!!");**
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/GuillerSantos/snk/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/GuillerSantos/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
