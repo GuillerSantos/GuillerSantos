@@ -32,4 +32,3 @@ If this sounds interesting, **Console.WriteLine("Follow me!!!");**
 <p align="center">
   <img src="https://raw.githubusercontent.com/GuillerSantos/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
