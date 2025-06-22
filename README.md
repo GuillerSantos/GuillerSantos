@@ -29,4 +29,3 @@ If this sounds interesting, **Console.WriteLine("Follow me!!!");**
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/github-contribution-grid-snake.svg)
