@@ -29,6 +29,6 @@ If this sounds interesting, **Follow me**
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/GuillerSantos/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p> -->
+</p>
