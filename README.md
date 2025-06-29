@@ -37,6 +37,6 @@ If this sounds interesting, **Follow me**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph.svg" width="500">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph-dark.svg" width="600">
 </picture>
 </div>
