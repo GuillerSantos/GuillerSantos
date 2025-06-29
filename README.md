@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<div align="center"> 
     
 I'm a **.NET Software Developer** with hands-on experience delivering **real-world solutions** using **C#**, **ASP.NET Core**, **Blazor**, and **Microsoft SQL Server**. 
 
@@ -15,7 +15,7 @@ If this sounds interesting, **Follow me**
 </div>
 
 <div align="center">
-
+    
 ## **Tech Stack & Tools**  
 
 </div>
@@ -40,3 +40,10 @@ If this sounds interesting, **Follow me**
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph-dark.svg" width="600">
 </picture>
 </div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillerSantos&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+    
+</div>
+
