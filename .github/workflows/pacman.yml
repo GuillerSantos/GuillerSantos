@@ -1,15 +1,13 @@
 name: Generate Pacman Animation
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  regenerate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -19,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate pacman animation
+      - name: Regenerate pacman animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: GuillerSantos
@@ -29,5 +27,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force_orphan: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
