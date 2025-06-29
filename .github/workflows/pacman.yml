@@ -1,4 +1,4 @@
-name: Generate Dark Pacman Animation
+name: Generate Pacman Animation
 
 on:
   schedule:
@@ -13,21 +13,23 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate dark pacman animation
+      - name: Generate optimized pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: GuillerSantos
 
-      - name: Deploy dark pacman to output branch
+      - name: Deploy with proper permissions
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          force_orphan: true
+          fqdn: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
