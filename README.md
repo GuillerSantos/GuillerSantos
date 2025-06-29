@@ -27,11 +27,6 @@ If this sounds interesting, **Follow me**
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-<div align="center">
-
-## **🎮 GitHub Activity**
-
-</div>
 
 <p align="center">
 <picture>
