@@ -1,0 +1,33 @@
+name: Generate Multi-Character Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Generate multi-character contribution graph
+        uses: abozanona/multi-character-contribution-graph@main
+        with:
+          github_user_name: GuillerSantos
+          characters: "snake,pacman"
+          snake_color: "#00ff41"
+          pacman_color: "#ffff00"
+          ghost_colors: "#ff6b6b,#4ecdc4,#45b7d1"
+          animation_speed: "medium"
+          enable_collision: false
+
+      - name: Deploy multi-character animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
