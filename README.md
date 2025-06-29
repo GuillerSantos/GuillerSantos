@@ -41,9 +41,9 @@ If this sounds interesting, **Follow me**
 </picture>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillerSantos&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
     
-</div>
+</div> -->
 
