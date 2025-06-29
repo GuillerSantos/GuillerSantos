@@ -12,7 +12,7 @@ If this sounds interesting, **Follow me**
 
 <div align="center">
 
-## **Technologies and Tools**  
+## **Tools and Technologies**  
 
 </div>
 
