@@ -1,13 +1,15 @@
-name: Generate Pacman Animation
+name: Generate Dark Pacman Animation
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  regenerate:
+  generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -17,16 +19,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Regenerate pacman animation
+      - name: Generate dark pacman animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: GuillerSantos
 
-      - name: Deploy pacman to output branch
+      - name: Deploy dark pacman to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          force_orphan: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
