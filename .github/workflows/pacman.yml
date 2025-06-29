@@ -1,9 +1,12 @@
-name: Generate Working Pacman Animation
+name: Generate Pacman Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
@@ -13,12 +16,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate pacman animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: GuillerSantos
 
-      - name: Push pacman to output branch
+      - name: Deploy pacman to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
