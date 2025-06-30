@@ -28,13 +28,14 @@ If this sounds interesting, **Follow me**
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph.svg" width="600" loading="lazy">
 </picture>
 </p>
+ -->
 
 
 <!-- <div align="center">
